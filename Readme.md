@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Exporter/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Exporter/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView how to export dynamically selected grid using the RenderBrick event handler
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e996/)**
+<!-- run online end -->
 
 <br/>
 
