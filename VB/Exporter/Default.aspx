@@ -1,18 +1,18 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="Exporter._Default" %>
 
-<%@ register Assembly="DevExpress.Web.v14.1" Namespace="DevExpress.Web.ASPxGridView.Export"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxGridView.Export"
 	TagPrefix="dxwgv" %>
 
-<%@ register Assembly="DevExpress.Web.v14.1" Namespace="DevExpress.Web.ASPxPanel"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxPanel"
 	TagPrefix="dxp" %>
 
-<%@ register Assembly="DevExpress.Web.v14.1" Namespace="DevExpress.Web.ASPxRoundPanel"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxRoundPanel"
 	TagPrefix="dxrp" %>
 
-<%@ register Assembly="DevExpress.Web.v14.1" Namespace="DevExpress.Web.ASPxEditors"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxEditors"
 	TagPrefix="dxe" %>
 
-<%@ register Assembly="DevExpress.Web.v14.1" Namespace="DevExpress.Web.ASPxGridView"
+<%@ register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxGridView"
 	TagPrefix="dxwgv" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
