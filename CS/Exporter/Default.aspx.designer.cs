@@ -44,7 +44,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel ASPxRoundPanel1;
+        protected global::DevExpress.Web.ASPxRoundPanel ASPxRoundPanel1;
         
         /// <summary>
         /// ASPxRadioButtonList1 control.
@@ -53,7 +53,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxRadioButtonList ASPxRadioButtonList1;
+        protected global::DevExpress.Web.ASPxRadioButtonList ASPxRadioButtonList1;
         
         /// <summary>
         /// ASPxRoundPanel2 control.
@@ -62,7 +62,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel ASPxRoundPanel2;
+        protected global::DevExpress.Web.ASPxRoundPanel ASPxRoundPanel2;
         
         /// <summary>
         /// ASPxRadioButtonList2 control.
@@ -71,7 +71,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxRadioButtonList ASPxRadioButtonList2;
+        protected global::DevExpress.Web.ASPxRadioButtonList ASPxRadioButtonList2;
         
         /// <summary>
         /// ASPxButton1 control.
@@ -80,7 +80,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton1;
+        protected global::DevExpress.Web.ASPxButton ASPxButton1;
         
         /// <summary>
         /// ASPxButton2 control.
@@ -89,7 +89,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton2;
+        protected global::DevExpress.Web.ASPxButton ASPxButton2;
         
         /// <summary>
         /// ASPxButton3 control.
@@ -98,7 +98,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton3;
+        protected global::DevExpress.Web.ASPxButton ASPxButton3;
         
         /// <summary>
         /// ASPxGridView1 control.
@@ -107,7 +107,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView1;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView1;
         
         /// <summary>
         /// ASPxGridView2 control.
@@ -116,7 +116,7 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView2;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView2;
         
         /// <summary>
         /// dsCategories control.
@@ -143,6 +143,6 @@ namespace Exporter {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.Export.ASPxGridViewExporter ASPxGridViewExporter1;
+        protected global::DevExpress.Web.ASPxGridViewExporter ASPxGridViewExporter1;
     }
 }

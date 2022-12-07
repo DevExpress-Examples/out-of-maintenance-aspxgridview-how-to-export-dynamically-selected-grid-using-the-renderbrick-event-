@@ -8,7 +8,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
-using DevExpress.Web.ASPxGridView.Export;
+using DevExpress.Web;
 
 namespace Exporter
 {
@@ -72,13 +72,13 @@ namespace Exporter
             if (ASPxRadioButtonList2.Value.ToString() == "r")
             {
 
-                if (e.RowType == DevExpress.Web.ASPxGridView.GridViewRowType.Title)
+                if (e.RowType == DevExpress.Web.GridViewRowType.Title)
                 {
 
                     e.BrickStyle.BackColor = System.Drawing.Color.DarkRed;
                     e.BrickStyle.ForeColor = System.Drawing.Color.MistyRose;
                 }
-                if (e.RowType == DevExpress.Web.ASPxGridView.GridViewRowType.Data)
+                if (e.RowType == DevExpress.Web.GridViewRowType.Data)
                 {
 
 
@@ -89,13 +89,13 @@ namespace Exporter
             }
             if (ASPxRadioButtonList2.Value.ToString() == "b")
             {
-                if (e.RowType == DevExpress.Web.ASPxGridView.GridViewRowType.Title)
+                if (e.RowType == DevExpress.Web.GridViewRowType.Title)
                 {
 
                     e.BrickStyle.BackColor = System.Drawing.Color.DarkBlue;
                     e.BrickStyle.ForeColor = System.Drawing.Color.SteelBlue;
                 }
-                if (e.RowType == DevExpress.Web.ASPxGridView.GridViewRowType.Data)
+                if (e.RowType == DevExpress.Web.GridViewRowType.Data)
                 {
 
                     e.BrickStyle.BackColor = System.Drawing.Color.SteelBlue;
@@ -106,13 +106,13 @@ namespace Exporter
 
             if (ASPxRadioButtonList2.Value.ToString() == "g")
             {
-                if (e.RowType == DevExpress.Web.ASPxGridView.GridViewRowType.Title)
+                if (e.RowType == DevExpress.Web.GridViewRowType.Title)
                 {
 
                     e.BrickStyle.BackColor = System.Drawing.Color.DarkGreen;
                     e.BrickStyle.ForeColor = System.Drawing.Color.PaleGreen;
                 }
-                if (e.RowType == DevExpress.Web.ASPxGridView.GridViewRowType.Data)
+                if (e.RowType == DevExpress.Web.GridViewRowType.Data)
                 {
 
                     e.BrickStyle.BackColor = System.Drawing.Color.PaleGreen;

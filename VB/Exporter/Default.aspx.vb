@@ -9,7 +9,7 @@ Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
-Imports DevExpress.Web.ASPxGridView.Export
+Imports DevExpress.Web
 
 Namespace Exporter
 	Partial Public Class _Default
@@ -60,12 +60,12 @@ Namespace Exporter
 
 			If ASPxRadioButtonList2.Value.ToString() = "r" Then
 
-				If e.RowType = DevExpress.Web.ASPxGridView.GridViewRowType.Title Then
+				If e.RowType = DevExpress.Web.GridViewRowType.Title Then
 
 					e.BrickStyle.BackColor = System.Drawing.Color.DarkRed
 					e.BrickStyle.ForeColor = System.Drawing.Color.MistyRose
 				End If
-				If e.RowType = DevExpress.Web.ASPxGridView.GridViewRowType.Data Then
+				If e.RowType = DevExpress.Web.GridViewRowType.Data Then
 
 
 					e.BrickStyle.BackColor = System.Drawing.Color.MistyRose
@@ -74,12 +74,12 @@ Namespace Exporter
 
 			End If
 			If ASPxRadioButtonList2.Value.ToString() = "b" Then
-				If e.RowType = DevExpress.Web.ASPxGridView.GridViewRowType.Title Then
+				If e.RowType = DevExpress.Web.GridViewRowType.Title Then
 
 					e.BrickStyle.BackColor = System.Drawing.Color.DarkBlue
 					e.BrickStyle.ForeColor = System.Drawing.Color.SteelBlue
 				End If
-				If e.RowType = DevExpress.Web.ASPxGridView.GridViewRowType.Data Then
+				If e.RowType = DevExpress.Web.GridViewRowType.Data Then
 
 					e.BrickStyle.BackColor = System.Drawing.Color.SteelBlue
 					e.BrickStyle.ForeColor = System.Drawing.Color.White
@@ -88,12 +88,12 @@ Namespace Exporter
 			End If
 
 			If ASPxRadioButtonList2.Value.ToString() = "g" Then
-				If e.RowType = DevExpress.Web.ASPxGridView.GridViewRowType.Title Then
+				If e.RowType = DevExpress.Web.GridViewRowType.Title Then
 
 					e.BrickStyle.BackColor = System.Drawing.Color.DarkGreen
 					e.BrickStyle.ForeColor = System.Drawing.Color.PaleGreen
 				End If
-				If e.RowType = DevExpress.Web.ASPxGridView.GridViewRowType.Data Then
+				If e.RowType = DevExpress.Web.GridViewRowType.Data Then
 
 					e.BrickStyle.BackColor = System.Drawing.Color.PaleGreen
 					e.BrickStyle.ForeColor = System.Drawing.Color.Black

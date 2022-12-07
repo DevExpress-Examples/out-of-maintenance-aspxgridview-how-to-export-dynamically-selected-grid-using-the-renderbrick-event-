@@ -47,7 +47,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxRoundPanel1 As Global.DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel
+		Protected ASPxRoundPanel1 As Global.DevExpress.Web.ASPxRoundPanel
 
 		''' <summary>
 		''' ASPxRadioButtonList1 control.
@@ -56,7 +56,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxRadioButtonList1 As Global.DevExpress.Web.ASPxEditors.ASPxRadioButtonList
+		Protected ASPxRadioButtonList1 As Global.DevExpress.Web.ASPxRadioButtonList
 
 		''' <summary>
 		''' ASPxRoundPanel2 control.
@@ -65,7 +65,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxRoundPanel2 As Global.DevExpress.Web.ASPxRoundPanel.ASPxRoundPanel
+		Protected ASPxRoundPanel2 As Global.DevExpress.Web.ASPxRoundPanel
 
 		''' <summary>
 		''' ASPxRadioButtonList2 control.
@@ -74,7 +74,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxRadioButtonList2 As Global.DevExpress.Web.ASPxEditors.ASPxRadioButtonList
+		Protected ASPxRadioButtonList2 As Global.DevExpress.Web.ASPxRadioButtonList
 
 		''' <summary>
 		''' ASPxButton1 control.
@@ -83,7 +83,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton1 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected ASPxButton1 As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' ASPxButton2 control.
@@ -92,7 +92,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton2 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected ASPxButton2 As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' ASPxButton3 control.
@@ -101,7 +101,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton3 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected ASPxButton3 As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' ASPxGridView1 control.
@@ -110,7 +110,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' ASPxGridView2 control.
@@ -119,7 +119,7 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView2 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView2 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' dsCategories control.
@@ -146,6 +146,6 @@ Namespace Exporter
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridViewExporter1 As Global.DevExpress.Web.ASPxGridView.Export.ASPxGridViewExporter
+		Protected ASPxGridViewExporter1 As Global.DevExpress.Web.ASPxGridViewExporter
 	End Class
 End Namespace
